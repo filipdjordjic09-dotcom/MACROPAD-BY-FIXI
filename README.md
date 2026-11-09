@@ -6,9 +6,9 @@
 This is my custom DIY Macropad designed for the Hack Club Hackpad program. It features 4 mechanical switches and 1 rotary encoder powered by the Seeed Studio XIAO RP2040 microcontroller running KMK Firmware (CircuitPython).
 
 ## 3D Enclosure & CAD Design
-[slika1.png]
-[slika%202.png]
-[slika3.png]
+<img width="1075" height="713" alt="slika1" src="https://github.com/user-attachments/assets/b79422d2-a45a-4b11-a528-4ac20a1817f7" />
+<img width="1068" height="793" alt="slika 2" src="https://github.com/user-attachments/assets/88fd1cb5-5c25-46ae-bad0-8d6b4e56aea4" />
+<img width="1241" height="770" alt="slika3" src="https://github.com/user-attachments/assets/3897e245-e347-4489-a528-f32334554460" />
 
 ## Features
 * **Microcontroller:** Seeed Studio XIAO RP2040

@@ -1,3 +1,6 @@
+<img width="1075" height="713" alt="slika1" src="https://github.com/user-attachments/assets/d9c59c8c-6676-426d-8dd1-eaccb5de6842" />
+<img width="1068" height="793" alt="slika 2" src="https://github.com/user-attachments/assets/65337782-dc70-488f-9430-22c495dcbf6c" />
+<img width="1241" height="770" alt="slika3" src="https://github.com/user-attachments/assets/723c2a80-2d7b-45c7-8add-c77a1dbe9530" />
 # Custom 4-Key Macropad with Rotary Encoder
 
 This is my custom DIY Macropad designed for the Hack Club Hackpad program. It features 4 mechanical switches and 1 rotary encoder powered by the Seeed Studio XIAO RP2040 microcontroller running KMK Firmware (CircuitPython).
